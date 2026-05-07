@@ -9,7 +9,9 @@
       "prompt_note": "Use the ClawHub source tree and current main branch. Review every issue and PR with the same evidence standard, but only propose auto-close for pull requests that are certainly implemented on main. Keep everything else open.",
       "apply_close_rules": {
         "issue": [],
-        "pull_request": ["implemented_on_main"]
+        "pull_request": [
+          "implemented_on_main"
+        ]
       }
     },
     {
@@ -19,7 +21,9 @@
       "prompt_note": "Use the ClawSweeper source tree and current main branch. Review bot automation, workflow, and documentation changes conservatively. Only propose auto-close for pull requests that are certainly implemented on main; keep issues open for maintainer triage.",
       "apply_close_rules": {
         "issue": [],
-        "pull_request": ["implemented_on_main"]
+        "pull_request": [
+          "implemented_on_main"
+        ]
       }
     },
     {
@@ -29,18 +33,37 @@
       "prompt_note": "Use the fs-safe source tree and current main branch. Review filesystem-safety, path-handling, and package changes conservatively. Only propose auto-close for pull requests that are certainly implemented on main; keep issues open for maintainer triage.",
       "apply_close_rules": {
         "issue": [],
-        "pull_request": ["implemented_on_main"]
+        "pull_request": [
+          "implemented_on_main"
+        ]
+      }
+    },
+    {
+      "target_repo": "rocketryos01/clawsweeper-target-smoke",
+      "display_name": "ClawSweeper Target Smoke",
+      "checkout_dir": "clawsweeper-target-smoke",
+      "prompt_note": "Use the disposable RocketryOS01 ClawSweeper target smoke repository and current main branch. This is a low-risk integration test target. Keep issues review/comment-only and only propose PR auto-close when the exact change is certainly already implemented on main. Never infer policy for Lua_Ti-Nspire or other school/project repositories from this smoke target.",
+      "apply_close_rules": {
+        "issue": [],
+        "pull_request": [
+          "implemented_on_main"
+        ]
       }
     }
   ],
   "openclaw_fallback": {
     "owner": "openclaw",
-    "deny_repositories": ["openclaw/clawsweeper-state", "openclaw/.github"],
+    "deny_repositories": [
+      "openclaw/clawsweeper-state",
+      "openclaw/.github"
+    ],
     "allow_repo_name_pattern": "^[A-Za-z0-9_.-]+$",
     "prompt_note": "Use the {target_repo} source tree and current main branch. This repository is using the generic OpenClaw onboarding profile, so keep review conservative: issues are review/comment-only, and pull requests may be auto-closed only when the exact change is certainly already implemented on main.",
     "apply_close_rules": {
       "issue": [],
-      "pull_request": ["implemented_on_main"]
+      "pull_request": [
+        "implemented_on_main"
+      ]
     }
   }
 }
