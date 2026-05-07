@@ -31,6 +31,16 @@
         "issue": [],
         "pull_request": ["implemented_on_main"]
       }
+    },
+    {
+      "target_repo": "rocketryos01/clawsweeper-target-smoke",
+      "display_name": "ClawSweeper Target Smoke",
+      "checkout_dir": "clawsweeper-target-smoke",
+      "prompt_note": "Use the disposable RocketryOS01 ClawSweeper target smoke repository and current main branch. This is a low-risk integration test target. Keep issues review/comment-only and only propose PR auto-close when the exact change is certainly already implemented on main. Never infer policy for Lua_Ti-Nspire or other school/project repositories from this smoke target.",
+      "apply_close_rules": {
+        "issue": [],
+        "pull_request": ["implemented_on_main"]
+      }
     }
   ],
   "openclaw_fallback": {
