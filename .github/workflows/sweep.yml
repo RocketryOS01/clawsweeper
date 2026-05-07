@@ -341,7 +341,7 @@ jobs:
 
       - name: Use state token
         id: state-token
-        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN }}" >> "$GITHUB_OUTPUT"
+        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN || github.token }}" >> "$GITHUB_OUTPUT"
 
       - uses: ./.github/actions/setup-state
         with:
@@ -560,7 +560,7 @@ jobs:
 
       - name: Use state token
         id: state-token
-        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN }}" >> "$GITHUB_OUTPUT"
+        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN || github.token }}" >> "$GITHUB_OUTPUT"
 
       - uses: ./clawsweeper/.github/actions/setup-state
         with:
@@ -976,7 +976,7 @@ jobs:
 
       - name: Use state token
         id: state-token
-        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN }}" >> "$GITHUB_OUTPUT"
+        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN || github.token }}" >> "$GITHUB_OUTPUT"
 
       - uses: ./.github/actions/setup-state
         with:
@@ -1416,7 +1416,7 @@ jobs:
 
       - name: Use state token
         id: state-token
-        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN }}" >> "$GITHUB_OUTPUT"
+        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN || github.token }}" >> "$GITHUB_OUTPUT"
 
       - uses: ./.github/actions/setup-state
         with:
@@ -1514,7 +1514,7 @@ jobs:
 
       - name: Use state token
         id: state-token
-        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN }}" >> "$GITHUB_OUTPUT"
+        run: echo "token=${{ secrets.CLAWSWEEPER_STATE_REPOSITORY_TOKEN || github.token }}" >> "$GITHUB_OUTPUT"
 
       - uses: ./.github/actions/setup-state
         with:
