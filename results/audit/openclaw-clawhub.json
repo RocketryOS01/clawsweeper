@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-08T07:56:47.282Z",
+  "generatedAt": "2026-05-08T14:14:44.204Z",
   "targetRepo": "openclaw/clawhub",
   "scan": {
     "complete": true,
     "pagesScanned": 3,
-    "openItemsSeen": 287
+    "openItemsSeen": 291
   },
   "counts": {
     "itemRecords": 0,
     "closedRecords": 0,
-    "missingOpen": 287,
-    "missingEligibleOpen": 242,
-    "missingMaintainerOpen": 2,
-    "missingProtectedOpen": 32,
-    "missingRecentOpen": 11,
+    "missingOpen": 291,
+    "missingEligibleOpen": 247,
+    "missingMaintainerOpen": 3,
+    "missingProtectedOpen": 33,
+    "missingRecentOpen": 8,
     "openArchived": 0,
     "staleItemRecords": 0,
     "duplicateRecords": 0,
@@ -1353,7 +1353,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T11:50:42Z",
-        "updatedAt": "2026-05-05T00:40:28Z",
+        "updatedAt": "2026-05-08T09:23:19Z",
         "missingReason": "eligible"
       },
       {
@@ -1373,7 +1373,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-25T19:51:44Z",
-        "updatedAt": "2026-05-04T23:08:27Z",
+        "updatedAt": "2026-05-08T09:02:19Z",
         "missingReason": "eligible"
       },
       {
@@ -1623,7 +1623,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-30T09:22:27Z",
-        "updatedAt": "2026-05-08T07:17:25Z",
+        "updatedAt": "2026-05-08T08:22:55Z",
         "missingReason": "eligible"
       },
       {
@@ -2157,7 +2157,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-01T14:49:30Z",
-        "updatedAt": "2026-05-05T03:48:29Z",
+        "updatedAt": "2026-05-08T08:16:27Z",
         "missingReason": "eligible"
       },
       {
@@ -2167,7 +2167,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-02T07:06:49Z",
-        "updatedAt": "2026-05-05T03:48:30Z",
+        "updatedAt": "2026-05-08T08:28:39Z",
         "missingReason": "eligible"
       },
       {
@@ -2191,7 +2191,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T09:07:57Z",
-        "updatedAt": "2026-05-06T22:02:02Z",
+        "updatedAt": "2026-05-08T11:29:46Z",
         "missingReason": "eligible"
       },
       {
@@ -2201,7 +2201,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T09:33:27Z",
-        "updatedAt": "2026-05-05T03:48:33Z",
+        "updatedAt": "2026-05-08T08:35:16Z",
         "missingReason": "eligible"
       },
       {
@@ -2211,7 +2211,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T18:39:39Z",
-        "updatedAt": "2026-05-05T03:48:34Z",
+        "updatedAt": "2026-05-08T09:16:37Z",
         "missingReason": "eligible"
       },
       {
@@ -2221,7 +2221,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T20:19:48Z",
-        "updatedAt": "2026-05-05T03:48:35Z",
+        "updatedAt": "2026-05-08T08:41:03Z",
         "missingReason": "eligible"
       },
       {
@@ -2244,7 +2244,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T22:28:04Z",
-        "updatedAt": "2026-05-05T03:48:36Z",
+        "updatedAt": "2026-05-08T09:30:30Z",
         "missingReason": "eligible"
       },
       {
@@ -2268,7 +2268,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-04T03:36:30Z",
-        "updatedAt": "2026-05-05T03:48:39Z",
+        "updatedAt": "2026-05-08T08:47:36Z",
         "missingReason": "eligible"
       },
       {
@@ -2290,7 +2290,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-04T08:11:42Z",
-        "updatedAt": "2026-05-05T03:48:40Z",
+        "updatedAt": "2026-05-08T08:54:46Z",
         "missingReason": "eligible"
       },
       {
@@ -2322,7 +2322,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-04T18:44:04Z",
-        "updatedAt": "2026-05-05T03:48:43Z",
+        "updatedAt": "2026-05-08T13:48:31Z",
         "missingReason": "eligible"
       },
       {
@@ -2379,7 +2379,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T02:43:02Z",
-        "updatedAt": "2026-05-05T02:48:51Z",
+        "updatedAt": "2026-05-08T08:10:03Z",
         "missingReason": "eligible"
       },
       {
@@ -2486,7 +2486,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T07:38:15Z",
-        "updatedAt": "2026-05-06T05:08:54Z",
+        "updatedAt": "2026-05-08T10:47:59Z",
         "missingReason": "eligible"
       },
       {
@@ -2496,7 +2496,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T07:45:35Z",
-        "updatedAt": "2026-05-05T07:54:12Z",
+        "updatedAt": "2026-05-08T09:52:11Z",
         "missingReason": "eligible"
       },
       {
@@ -2542,7 +2542,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T13:53:25Z",
-        "updatedAt": "2026-05-05T13:59:51Z",
+        "updatedAt": "2026-05-08T10:19:30Z",
         "missingReason": "eligible"
       },
       {
@@ -2576,7 +2576,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T19:25:39Z",
-        "updatedAt": "2026-05-06T15:51:50Z",
+        "updatedAt": "2026-05-08T10:06:41Z",
         "missingReason": "eligible"
       },
       {
@@ -2598,7 +2598,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T04:58:59Z",
-        "updatedAt": "2026-05-06T05:04:19Z",
+        "updatedAt": "2026-05-08T10:39:12Z",
         "missingReason": "eligible"
       },
       {
@@ -2608,7 +2608,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T06:30:13Z",
-        "updatedAt": "2026-05-06T06:36:44Z",
+        "updatedAt": "2026-05-08T10:32:34Z",
         "missingReason": "eligible"
       },
       {
@@ -2631,7 +2631,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T06:48:13Z",
-        "updatedAt": "2026-05-07T11:05:02Z",
+        "updatedAt": "2026-05-08T12:00:17Z",
         "missingReason": "eligible"
       },
       {
@@ -2643,7 +2643,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T09:09:34Z",
-        "updatedAt": "2026-05-06T11:57:58Z",
+        "updatedAt": "2026-05-08T11:02:28Z",
         "missingReason": "eligible"
       },
       {
@@ -2653,7 +2653,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T09:20:16Z",
-        "updatedAt": "2026-05-06T23:57:26Z",
+        "updatedAt": "2026-05-08T09:38:16Z",
         "missingReason": "eligible"
       },
       {
@@ -2665,7 +2665,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T11:10:13Z",
-        "updatedAt": "2026-05-06T11:25:56Z",
+        "updatedAt": "2026-05-08T09:58:25Z",
         "missingReason": "eligible"
       },
       {
@@ -2675,7 +2675,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T12:09:33Z",
-        "updatedAt": "2026-05-06T20:01:44Z",
+        "updatedAt": "2026-05-08T10:26:24Z",
         "missingReason": "eligible"
       },
       {
@@ -2685,7 +2685,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T13:29:57Z",
-        "updatedAt": "2026-05-07T05:23:18Z",
+        "updatedAt": "2026-05-08T14:11:04Z",
         "missingReason": "eligible"
       },
       {
@@ -2766,7 +2766,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T03:25:27Z",
-        "updatedAt": "2026-05-07T05:29:06Z",
+        "updatedAt": "2026-05-08T11:40:39Z",
         "missingReason": "eligible"
       },
       {
@@ -2802,7 +2802,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T05:17:47Z",
-        "updatedAt": "2026-05-07T05:24:48Z",
+        "updatedAt": "2026-05-08T11:20:23Z",
         "missingReason": "eligible"
       },
       {
@@ -2863,7 +2863,7 @@
         "labels": [],
         "authorAssociation": "MEMBER",
         "createdAt": "2026-05-07T11:50:07Z",
-        "updatedAt": "2026-05-08T07:21:00Z",
+        "updatedAt": "2026-05-08T10:29:22Z",
         "missingReason": "maintainer_authored"
       },
       {
@@ -2873,8 +2873,8 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T12:40:22Z",
-        "updatedAt": "2026-05-07T13:08:14Z",
-        "missingReason": "recently_created"
+        "updatedAt": "2026-05-08T13:53:15Z",
+        "missingReason": "eligible"
       },
       {
         "number": 2081,
@@ -2896,8 +2896,8 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T12:55:30Z",
-        "updatedAt": "2026-05-07T13:02:34Z",
-        "missingReason": "recently_created"
+        "updatedAt": "2026-05-08T11:51:10Z",
+        "missingReason": "eligible"
       },
       {
         "number": 2083,
@@ -2907,7 +2907,7 @@
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T13:12:18Z",
         "updatedAt": "2026-05-07T13:19:03Z",
-        "missingReason": "recently_created"
+        "missingReason": "eligible"
       },
       {
         "number": 2084,
@@ -2917,7 +2917,7 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T13:31:26Z",
         "updatedAt": "2026-05-07T18:04:45Z",
-        "missingReason": "recently_created"
+        "missingReason": "eligible"
       },
       {
         "number": 2085,
@@ -2926,8 +2926,8 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T14:12:14Z",
-        "updatedAt": "2026-05-07T14:22:23Z",
-        "missingReason": "recently_created"
+        "updatedAt": "2026-05-08T14:01:05Z",
+        "missingReason": "eligible"
       },
       {
         "number": 2086,
@@ -2938,7 +2938,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T14:15:17Z",
-        "updatedAt": "2026-05-08T02:08:45Z",
+        "updatedAt": "2026-05-08T12:13:16Z",
         "missingReason": "recently_created"
       },
       {
@@ -2982,7 +2982,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-08T00:24:37Z",
-        "updatedAt": "2026-05-08T00:32:29Z",
+        "updatedAt": "2026-05-08T14:11:19Z",
         "missingReason": "recently_created"
       },
       {
@@ -2993,6 +2993,51 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-08T02:25:10Z",
         "updatedAt": "2026-05-08T02:38:03Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2101,
+        "kind": "issue",
+        "title": "[Skill Appeal] False positive flag for bimiyun-search",
+        "labels": [
+          "r: rescan-guidance"
+        ],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-08T09:59:45Z",
+        "updatedAt": "2026-05-08T10:13:03Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2102,
+        "kind": "pull_request",
+        "title": "fix(skills): allow publishing a new version under a different owner (personal→org migration)",
+        "labels": [],
+        "authorAssociation": "MEMBER",
+        "createdAt": "2026-05-08T10:45:17Z",
+        "updatedAt": "2026-05-08T12:26:04Z",
+        "missingReason": "maintainer_authored"
+      },
+      {
+        "number": 2103,
+        "kind": "issue",
+        "title": "False positive: env var read flagged as exposed secret",
+        "labels": [
+          "r: rescan-guidance",
+          "security"
+        ],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-08T13:12:49Z",
+        "updatedAt": "2026-05-08T13:26:30Z",
+        "missingReason": "protected_label"
+      },
+      {
+        "number": 2104,
+        "kind": "issue",
+        "title": "Integrity mismatch on install for plugin — HTTP API serves a different artifact than the CLI",
+        "labels": [],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-08T14:06:05Z",
+        "updatedAt": "2026-05-08T14:09:36Z",
         "missingReason": "recently_created"
       }
     ],
@@ -4328,7 +4373,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T11:50:42Z",
-        "updatedAt": "2026-05-05T00:40:28Z",
+        "updatedAt": "2026-05-08T09:23:19Z",
         "missingReason": "eligible"
       },
       {
@@ -4348,7 +4393,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-25T19:51:44Z",
-        "updatedAt": "2026-05-04T23:08:27Z",
+        "updatedAt": "2026-05-08T09:02:19Z",
         "missingReason": "eligible"
       },
       {
@@ -4598,7 +4643,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-30T09:22:27Z",
-        "updatedAt": "2026-05-08T07:17:25Z",
+        "updatedAt": "2026-05-08T08:22:55Z",
         "missingReason": "eligible"
       },
       {
@@ -5098,7 +5143,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-01T14:49:30Z",
-        "updatedAt": "2026-05-05T03:48:29Z",
+        "updatedAt": "2026-05-08T08:16:27Z",
         "missingReason": "eligible"
       },
       {
@@ -5108,7 +5153,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-02T07:06:49Z",
-        "updatedAt": "2026-05-05T03:48:30Z",
+        "updatedAt": "2026-05-08T08:28:39Z",
         "missingReason": "eligible"
       },
       {
@@ -5120,7 +5165,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T09:07:57Z",
-        "updatedAt": "2026-05-06T22:02:02Z",
+        "updatedAt": "2026-05-08T11:29:46Z",
         "missingReason": "eligible"
       },
       {
@@ -5130,7 +5175,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T09:33:27Z",
-        "updatedAt": "2026-05-05T03:48:33Z",
+        "updatedAt": "2026-05-08T08:35:16Z",
         "missingReason": "eligible"
       },
       {
@@ -5140,7 +5185,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T18:39:39Z",
-        "updatedAt": "2026-05-05T03:48:34Z",
+        "updatedAt": "2026-05-08T09:16:37Z",
         "missingReason": "eligible"
       },
       {
@@ -5150,7 +5195,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T20:19:48Z",
-        "updatedAt": "2026-05-05T03:48:35Z",
+        "updatedAt": "2026-05-08T08:41:03Z",
         "missingReason": "eligible"
       },
       {
@@ -5160,7 +5205,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-03T22:28:04Z",
-        "updatedAt": "2026-05-05T03:48:36Z",
+        "updatedAt": "2026-05-08T09:30:30Z",
         "missingReason": "eligible"
       },
       {
@@ -5184,7 +5229,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-04T03:36:30Z",
-        "updatedAt": "2026-05-05T03:48:39Z",
+        "updatedAt": "2026-05-08T08:47:36Z",
         "missingReason": "eligible"
       },
       {
@@ -5194,7 +5239,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-04T08:11:42Z",
-        "updatedAt": "2026-05-05T03:48:40Z",
+        "updatedAt": "2026-05-08T08:54:46Z",
         "missingReason": "eligible"
       },
       {
@@ -5214,7 +5259,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-04T18:44:04Z",
-        "updatedAt": "2026-05-05T03:48:43Z",
+        "updatedAt": "2026-05-08T13:48:31Z",
         "missingReason": "eligible"
       },
       {
@@ -5247,7 +5292,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T02:43:02Z",
-        "updatedAt": "2026-05-05T02:48:51Z",
+        "updatedAt": "2026-05-08T08:10:03Z",
         "missingReason": "eligible"
       },
       {
@@ -5257,7 +5302,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T07:38:15Z",
-        "updatedAt": "2026-05-06T05:08:54Z",
+        "updatedAt": "2026-05-08T10:47:59Z",
         "missingReason": "eligible"
       },
       {
@@ -5267,7 +5312,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T07:45:35Z",
-        "updatedAt": "2026-05-05T07:54:12Z",
+        "updatedAt": "2026-05-08T09:52:11Z",
         "missingReason": "eligible"
       },
       {
@@ -5277,7 +5322,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T13:53:25Z",
-        "updatedAt": "2026-05-05T13:59:51Z",
+        "updatedAt": "2026-05-08T10:19:30Z",
         "missingReason": "eligible"
       },
       {
@@ -5287,7 +5332,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-05T19:25:39Z",
-        "updatedAt": "2026-05-06T15:51:50Z",
+        "updatedAt": "2026-05-08T10:06:41Z",
         "missingReason": "eligible"
       },
       {
@@ -5297,7 +5342,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T04:58:59Z",
-        "updatedAt": "2026-05-06T05:04:19Z",
+        "updatedAt": "2026-05-08T10:39:12Z",
         "missingReason": "eligible"
       },
       {
@@ -5307,7 +5352,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T06:30:13Z",
-        "updatedAt": "2026-05-06T06:36:44Z",
+        "updatedAt": "2026-05-08T10:32:34Z",
         "missingReason": "eligible"
       },
       {
@@ -5317,7 +5362,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T06:48:13Z",
-        "updatedAt": "2026-05-07T11:05:02Z",
+        "updatedAt": "2026-05-08T12:00:17Z",
         "missingReason": "eligible"
       },
       {
@@ -5329,7 +5374,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T09:09:34Z",
-        "updatedAt": "2026-05-06T11:57:58Z",
+        "updatedAt": "2026-05-08T11:02:28Z",
         "missingReason": "eligible"
       },
       {
@@ -5339,7 +5384,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T09:20:16Z",
-        "updatedAt": "2026-05-06T23:57:26Z",
+        "updatedAt": "2026-05-08T09:38:16Z",
         "missingReason": "eligible"
       },
       {
@@ -5351,7 +5396,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T11:10:13Z",
-        "updatedAt": "2026-05-06T11:25:56Z",
+        "updatedAt": "2026-05-08T09:58:25Z",
         "missingReason": "eligible"
       },
       {
@@ -5361,7 +5406,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T12:09:33Z",
-        "updatedAt": "2026-05-06T20:01:44Z",
+        "updatedAt": "2026-05-08T10:26:24Z",
         "missingReason": "eligible"
       },
       {
@@ -5371,7 +5416,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-06T13:29:57Z",
-        "updatedAt": "2026-05-07T05:23:18Z",
+        "updatedAt": "2026-05-08T14:11:04Z",
         "missingReason": "eligible"
       },
       {
@@ -5427,7 +5472,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T03:25:27Z",
-        "updatedAt": "2026-05-07T05:29:06Z",
+        "updatedAt": "2026-05-08T11:40:39Z",
         "missingReason": "eligible"
       },
       {
@@ -5437,7 +5482,57 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T05:17:47Z",
-        "updatedAt": "2026-05-07T05:24:48Z",
+        "updatedAt": "2026-05-08T11:20:23Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2080,
+        "kind": "issue",
+        "title": "Package publish fails after UI delete due to stale package ownership / slug reservation",
+        "labels": [],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-07T12:40:22Z",
+        "updatedAt": "2026-05-08T13:53:15Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2082,
+        "kind": "issue",
+        "title": "Skills flagged - Allowlist spotify/save-to-spotify (v0.1.0)",
+        "labels": [],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-07T12:55:30Z",
+        "updatedAt": "2026-05-08T11:51:10Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2083,
+        "kind": "issue",
+        "title": "please unflag my skills",
+        "labels": [],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-07T13:12:18Z",
+        "updatedAt": "2026-05-07T13:19:03Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2084,
+        "kind": "pull_request",
+        "title": "fix: polish browse listing surfaces",
+        "labels": [],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-07T13:31:26Z",
+        "updatedAt": "2026-05-07T18:04:45Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2085,
+        "kind": "issue",
+        "title": "[Skill Appeal] Manual Review Request: False Positives on Memory Plugin (@memorilabs/openclaw-memori)",
+        "labels": [],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-07T14:12:14Z",
+        "updatedAt": "2026-05-08T14:01:05Z",
         "missingReason": "eligible"
       }
     ],
@@ -5459,7 +5554,17 @@
         "labels": [],
         "authorAssociation": "MEMBER",
         "createdAt": "2026-05-07T11:50:07Z",
-        "updatedAt": "2026-05-08T07:21:00Z",
+        "updatedAt": "2026-05-08T10:29:22Z",
+        "missingReason": "maintainer_authored"
+      },
+      {
+        "number": 2102,
+        "kind": "pull_request",
+        "title": "fix(skills): allow publishing a new version under a different owner (personal→org migration)",
+        "labels": [],
+        "authorAssociation": "MEMBER",
+        "createdAt": "2026-05-08T10:45:17Z",
+        "updatedAt": "2026-05-08T12:26:04Z",
         "missingReason": "maintainer_authored"
       }
     ],
@@ -5857,59 +5962,22 @@
         "createdAt": "2026-05-07T12:43:07Z",
         "updatedAt": "2026-05-07T12:49:15Z",
         "missingReason": "protected_label"
+      },
+      {
+        "number": 2103,
+        "kind": "issue",
+        "title": "False positive: env var read flagged as exposed secret",
+        "labels": [
+          "r: rescan-guidance",
+          "security"
+        ],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-08T13:12:49Z",
+        "updatedAt": "2026-05-08T13:26:30Z",
+        "missingReason": "protected_label"
       }
     ],
     "missingRecentOpen": [
-      {
-        "number": 2080,
-        "kind": "issue",
-        "title": "Package publish fails after UI delete due to stale package ownership / slug reservation",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T12:40:22Z",
-        "updatedAt": "2026-05-07T13:08:14Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2082,
-        "kind": "issue",
-        "title": "Skills flagged - Allowlist spotify/save-to-spotify (v0.1.0)",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T12:55:30Z",
-        "updatedAt": "2026-05-07T13:02:34Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2083,
-        "kind": "issue",
-        "title": "please unflag my skills",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T13:12:18Z",
-        "updatedAt": "2026-05-07T13:19:03Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2084,
-        "kind": "pull_request",
-        "title": "fix: polish browse listing surfaces",
-        "labels": [],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-07T13:31:26Z",
-        "updatedAt": "2026-05-07T18:04:45Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2085,
-        "kind": "issue",
-        "title": "[Skill Appeal] Manual Review Request: False Positives on Memory Plugin (@memorilabs/openclaw-memori)",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T14:12:14Z",
-        "updatedAt": "2026-05-07T14:22:23Z",
-        "missingReason": "recently_created"
-      },
       {
         "number": 2086,
         "kind": "issue",
@@ -5919,7 +5987,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T14:15:17Z",
-        "updatedAt": "2026-05-08T02:08:45Z",
+        "updatedAt": "2026-05-08T12:13:16Z",
         "missingReason": "recently_created"
       },
       {
@@ -5963,7 +6031,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-08T00:24:37Z",
-        "updatedAt": "2026-05-08T00:32:29Z",
+        "updatedAt": "2026-05-08T14:11:19Z",
         "missingReason": "recently_created"
       },
       {
@@ -5974,6 +6042,28 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-08T02:25:10Z",
         "updatedAt": "2026-05-08T02:38:03Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2101,
+        "kind": "issue",
+        "title": "[Skill Appeal] False positive flag for bimiyun-search",
+        "labels": [
+          "r: rescan-guidance"
+        ],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-08T09:59:45Z",
+        "updatedAt": "2026-05-08T10:13:03Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2104,
+        "kind": "issue",
+        "title": "Integrity mismatch on install for plugin — HTTP API serves a different artifact than the CLI",
+        "labels": [],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-08T14:06:05Z",
+        "updatedAt": "2026-05-08T14:09:36Z",
         "missingReason": "recently_created"
       }
     ],
