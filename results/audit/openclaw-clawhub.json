@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T19:52:46.697Z",
+  "generatedAt": "2026-05-08T03:51:23.182Z",
   "targetRepo": "openclaw/clawhub",
   "scan": {
     "complete": true,
@@ -10,10 +10,10 @@
     "itemRecords": 0,
     "closedRecords": 0,
     "missingOpen": 290,
-    "missingEligibleOpen": 237,
+    "missingEligibleOpen": 241,
     "missingMaintainerOpen": 3,
     "missingProtectedOpen": 32,
-    "missingRecentOpen": 18,
+    "missingRecentOpen": 14,
     "openArchived": 0,
     "staleItemRecords": 0,
     "duplicateRecords": 0,
@@ -1031,7 +1031,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-20T20:24:38Z",
-        "updatedAt": "2026-05-04T02:48:04Z",
+        "updatedAt": "2026-05-07T20:02:30Z",
         "missingReason": "eligible"
       },
       {
@@ -1041,7 +1041,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T01:12:26Z",
-        "updatedAt": "2026-05-04T23:54:00Z",
+        "updatedAt": "2026-05-08T01:03:58Z",
         "missingReason": "eligible"
       },
       {
@@ -1051,7 +1051,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T10:00:34Z",
-        "updatedAt": "2026-05-04T23:54:01Z",
+        "updatedAt": "2026-05-08T02:28:42Z",
         "missingReason": "eligible"
       },
       {
@@ -1073,7 +1073,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T11:44:05Z",
-        "updatedAt": "2026-05-04T23:54:03Z",
+        "updatedAt": "2026-05-08T02:14:50Z",
         "missingReason": "eligible"
       },
       {
@@ -1083,7 +1083,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T11:47:41Z",
-        "updatedAt": "2026-05-04T02:48:06Z",
+        "updatedAt": "2026-05-07T20:07:53Z",
         "missingReason": "eligible"
       },
       {
@@ -1093,7 +1093,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T14:23:18Z",
-        "updatedAt": "2026-05-04T02:48:08Z",
+        "updatedAt": "2026-05-07T20:14:43Z",
         "missingReason": "eligible"
       },
       {
@@ -1133,7 +1133,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T03:18:17Z",
-        "updatedAt": "2026-05-04T02:48:11Z",
+        "updatedAt": "2026-05-07T20:26:48Z",
         "missingReason": "eligible"
       },
       {
@@ -1143,7 +1143,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T10:11:48Z",
-        "updatedAt": "2026-05-04T02:48:12Z",
+        "updatedAt": "2026-05-07T20:53:40Z",
         "missingReason": "eligible"
       },
       {
@@ -1153,7 +1153,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T11:13:31Z",
-        "updatedAt": "2026-05-04T23:54:06Z",
+        "updatedAt": "2026-05-08T02:22:30Z",
         "missingReason": "eligible"
       },
       {
@@ -1163,7 +1163,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T11:15:43Z",
-        "updatedAt": "2026-05-04T02:48:14Z",
+        "updatedAt": "2026-05-07T23:29:56Z",
         "missingReason": "eligible"
       },
       {
@@ -1173,7 +1173,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T11:28:28Z",
-        "updatedAt": "2026-05-04T02:48:17Z",
+        "updatedAt": "2026-05-07T20:20:29Z",
         "missingReason": "eligible"
       },
       {
@@ -1183,7 +1183,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T13:10:25Z",
-        "updatedAt": "2026-05-04T02:48:19Z",
+        "updatedAt": "2026-05-07T22:10:20Z",
         "missingReason": "eligible"
       },
       {
@@ -1203,7 +1203,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T13:54:00Z",
-        "updatedAt": "2026-05-04T23:54:08Z",
+        "updatedAt": "2026-05-08T03:44:54Z",
         "missingReason": "eligible"
       },
       {
@@ -1213,7 +1213,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T14:01:01Z",
-        "updatedAt": "2026-05-04T23:08:11Z",
+        "updatedAt": "2026-05-07T22:59:41Z",
         "missingReason": "eligible"
       },
       {
@@ -1223,7 +1223,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T14:02:16Z",
-        "updatedAt": "2026-05-04T23:08:12Z",
+        "updatedAt": "2026-05-08T00:13:34Z",
         "missingReason": "eligible"
       },
       {
@@ -1253,7 +1253,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T16:22:31Z",
-        "updatedAt": "2026-05-04T02:48:20Z",
+        "updatedAt": "2026-05-07T22:29:56Z",
         "missingReason": "eligible"
       },
       {
@@ -1293,7 +1293,7 @@
         "labels": [],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-03-23T19:23:18Z",
-        "updatedAt": "2026-05-04T23:08:17Z",
+        "updatedAt": "2026-05-07T22:03:12Z",
         "missingReason": "eligible"
       },
       {
@@ -1303,7 +1303,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T03:38:25Z",
-        "updatedAt": "2026-05-04T23:08:19Z",
+        "updatedAt": "2026-05-07T23:24:05Z",
         "missingReason": "eligible"
       },
       {
@@ -1333,7 +1333,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T09:55:32Z",
-        "updatedAt": "2026-05-04T23:08:22Z",
+        "updatedAt": "2026-05-08T00:49:13Z",
         "missingReason": "eligible"
       },
       {
@@ -1343,7 +1343,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T11:29:04Z",
-        "updatedAt": "2026-05-04T23:08:24Z",
+        "updatedAt": "2026-05-07T21:44:52Z",
         "missingReason": "eligible"
       },
       {
@@ -1363,7 +1363,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-25T01:39:14Z",
-        "updatedAt": "2026-05-04T23:08:26Z",
+        "updatedAt": "2026-05-08T03:12:57Z",
         "missingReason": "eligible"
       },
       {
@@ -1433,7 +1433,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T18:48:37Z",
-        "updatedAt": "2026-05-04T23:08:35Z",
+        "updatedAt": "2026-05-07T23:05:47Z",
         "missingReason": "eligible"
       },
       {
@@ -1453,7 +1453,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T22:30:40Z",
-        "updatedAt": "2026-05-04T23:08:37Z",
+        "updatedAt": "2026-05-07T22:54:30Z",
         "missingReason": "eligible"
       },
       {
@@ -1463,7 +1463,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-27T03:16:06Z",
-        "updatedAt": "2026-05-04T23:08:38Z",
+        "updatedAt": "2026-05-07T23:11:56Z",
         "missingReason": "eligible"
       },
       {
@@ -1473,7 +1473,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-27T05:49:06Z",
-        "updatedAt": "2026-05-04T23:08:39Z",
+        "updatedAt": "2026-05-07T22:36:22Z",
         "missingReason": "eligible"
       },
       {
@@ -1483,7 +1483,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-27T07:14:52Z",
-        "updatedAt": "2026-05-04T23:08:41Z",
+        "updatedAt": "2026-05-08T01:50:19Z",
         "missingReason": "eligible"
       },
       {
@@ -1513,7 +1513,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T12:23:59Z",
-        "updatedAt": "2026-05-04T23:08:43Z",
+        "updatedAt": "2026-05-08T00:31:52Z",
         "missingReason": "eligible"
       },
       {
@@ -1523,7 +1523,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T15:26:24Z",
-        "updatedAt": "2026-05-04T23:08:44Z",
+        "updatedAt": "2026-05-08T01:00:54Z",
         "missingReason": "eligible"
       },
       {
@@ -1533,7 +1533,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T17:03:44Z",
-        "updatedAt": "2026-05-04T23:54:15Z",
+        "updatedAt": "2026-05-08T03:07:38Z",
         "missingReason": "eligible"
       },
       {
@@ -1543,7 +1543,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T23:47:48Z",
-        "updatedAt": "2026-05-04T23:08:46Z",
+        "updatedAt": "2026-05-08T00:42:44Z",
         "missingReason": "eligible"
       },
       {
@@ -1553,7 +1553,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T05:37:21Z",
-        "updatedAt": "2026-05-04T23:54:16Z",
+        "updatedAt": "2026-05-08T02:53:25Z",
         "missingReason": "eligible"
       },
       {
@@ -1563,7 +1563,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T06:27:17Z",
-        "updatedAt": "2026-05-04T23:54:18Z",
+        "updatedAt": "2026-05-08T03:37:41Z",
         "missingReason": "eligible"
       },
       {
@@ -1573,7 +1573,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T09:47:05Z",
-        "updatedAt": "2026-05-04T23:54:19Z",
+        "updatedAt": "2026-05-08T01:36:14Z",
         "missingReason": "eligible"
       },
       {
@@ -1593,7 +1593,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T13:18:43Z",
-        "updatedAt": "2026-05-05T00:04:49Z",
+        "updatedAt": "2026-05-08T03:50:57Z",
         "missingReason": "eligible"
       },
       {
@@ -1613,7 +1613,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T13:51:53Z",
-        "updatedAt": "2026-05-04T23:54:25Z",
+        "updatedAt": "2026-05-08T02:35:12Z",
         "missingReason": "eligible"
       },
       {
@@ -1633,7 +1633,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-30T10:44:34Z",
-        "updatedAt": "2026-05-04T23:54:26Z",
+        "updatedAt": "2026-05-08T03:18:58Z",
         "missingReason": "eligible"
       },
       {
@@ -1643,7 +1643,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-30T10:56:54Z",
-        "updatedAt": "2026-05-04T23:54:28Z",
+        "updatedAt": "2026-05-08T01:18:17Z",
         "missingReason": "eligible"
       },
       {
@@ -1663,7 +1663,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-31T16:08:26Z",
-        "updatedAt": "2026-05-04T02:48:24Z",
+        "updatedAt": "2026-05-07T21:56:04Z",
         "missingReason": "eligible"
       },
       {
@@ -1683,7 +1683,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-02T04:11:39Z",
-        "updatedAt": "2026-05-04T23:54:34Z",
+        "updatedAt": "2026-05-08T02:47:41Z",
         "missingReason": "eligible"
       },
       {
@@ -1693,7 +1693,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-03T08:41:39Z",
-        "updatedAt": "2026-05-04T23:08:49Z",
+        "updatedAt": "2026-05-07T21:31:54Z",
         "missingReason": "eligible"
       },
       {
@@ -1713,7 +1713,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-03T17:19:09Z",
-        "updatedAt": "2026-05-04T23:08:52Z",
+        "updatedAt": "2026-05-07T22:42:00Z",
         "missingReason": "eligible"
       },
       {
@@ -1723,7 +1723,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-04T03:15:27Z",
-        "updatedAt": "2026-05-04T23:08:53Z",
+        "updatedAt": "2026-05-08T00:06:56Z",
         "missingReason": "eligible"
       },
       {
@@ -1733,7 +1733,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-05T11:19:46Z",
-        "updatedAt": "2026-05-04T23:08:54Z",
+        "updatedAt": "2026-05-08T00:00:27Z",
         "missingReason": "eligible"
       },
       {
@@ -1743,7 +1743,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-05T17:52:41Z",
-        "updatedAt": "2026-05-04T23:54:36Z",
+        "updatedAt": "2026-05-08T01:55:35Z",
         "missingReason": "eligible"
       },
       {
@@ -1753,7 +1753,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-06T05:10:01Z",
-        "updatedAt": "2026-05-04T23:08:57Z",
+        "updatedAt": "2026-05-08T00:37:46Z",
         "missingReason": "eligible"
       },
       {
@@ -1763,7 +1763,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-07T06:55:58Z",
-        "updatedAt": "2026-05-04T23:08:58Z",
+        "updatedAt": "2026-05-07T23:36:00Z",
         "missingReason": "eligible"
       },
       {
@@ -1923,7 +1923,7 @@
         "labels": [],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-04-17T08:32:24Z",
-        "updatedAt": "2026-05-07T19:37:05Z",
+        "updatedAt": "2026-05-07T21:00:28Z",
         "missingReason": "eligible"
       },
       {
@@ -2034,16 +2034,6 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-04-23T22:41:10Z",
         "updatedAt": "2026-05-03T14:06:40Z",
-        "missingReason": "eligible"
-      },
-      {
-        "number": 1814,
-        "kind": "issue",
-        "title": "Allow publishing new versions of org-owned skills via REST/CLI",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-04-24T22:09:43Z",
-        "updatedAt": "2026-05-03T14:06:41Z",
         "missingReason": "eligible"
       },
       {
@@ -2718,7 +2708,7 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-06T21:44:26Z",
         "updatedAt": "2026-05-07T18:09:45Z",
-        "missingReason": "recently_created"
+        "missingReason": "eligible"
       },
       {
         "number": 2060,
@@ -2728,7 +2718,7 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-06T23:03:34Z",
         "updatedAt": "2026-05-07T18:04:45Z",
-        "missingReason": "recently_created"
+        "missingReason": "eligible"
       },
       {
         "number": 2063,
@@ -2741,7 +2731,7 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T02:06:59Z",
         "updatedAt": "2026-05-07T02:12:10Z",
-        "missingReason": "recently_created"
+        "missingReason": "eligible"
       },
       {
         "number": 2065,
@@ -2754,7 +2744,7 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T02:07:27Z",
         "updatedAt": "2026-05-07T02:07:57Z",
-        "missingReason": "recently_created"
+        "missingReason": "eligible"
       },
       {
         "number": 2067,
@@ -2777,7 +2767,7 @@
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T03:25:27Z",
         "updatedAt": "2026-05-07T05:29:06Z",
-        "missingReason": "recently_created"
+        "missingReason": "eligible"
       },
       {
         "number": 2069,
@@ -2813,26 +2803,6 @@
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T05:17:47Z",
         "updatedAt": "2026-05-07T05:24:48Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2072,
-        "kind": "pull_request",
-        "title": "Enforce scoped plugin ownership",
-        "labels": [],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-07T05:32:52Z",
-        "updatedAt": "2026-05-07T18:57:45Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2073,
-        "kind": "pull_request",
-        "title": "Fix plugin publish ownership visibility",
-        "labels": [],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-07T05:36:21Z",
-        "updatedAt": "2026-05-07T18:42:48Z",
         "missingReason": "recently_created"
       },
       {
@@ -2893,7 +2863,7 @@
         "labels": [],
         "authorAssociation": "MEMBER",
         "createdAt": "2026-05-07T09:55:26Z",
-        "updatedAt": "2026-05-07T13:20:52Z",
+        "updatedAt": "2026-05-08T02:48:09Z",
         "missingReason": "maintainer_authored"
       },
       {
@@ -2903,7 +2873,7 @@
         "labels": [],
         "authorAssociation": "MEMBER",
         "createdAt": "2026-05-07T11:50:07Z",
-        "updatedAt": "2026-05-07T11:57:52Z",
+        "updatedAt": "2026-05-08T03:49:21Z",
         "missingReason": "maintainer_authored"
       },
       {
@@ -2978,7 +2948,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T14:15:17Z",
-        "updatedAt": "2026-05-07T14:22:40Z",
+        "updatedAt": "2026-05-08T02:08:45Z",
         "missingReason": "recently_created"
       },
       {
@@ -2990,7 +2960,7 @@
         ],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T14:28:36Z",
-        "updatedAt": "2026-05-07T18:30:36Z",
+        "updatedAt": "2026-05-07T22:11:47Z",
         "missingReason": "recently_created"
       },
       {
@@ -3021,6 +2991,38 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T18:15:09Z",
         "updatedAt": "2026-05-07T18:25:47Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2093,
+        "kind": "pull_request",
+        "title": "feat: enforce malicious-only moderation appeals",
+        "labels": [],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-07T22:48:44Z",
+        "updatedAt": "2026-05-08T02:43:58Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2094,
+        "kind": "issue",
+        "title": "Defensive-scanner skills get flagged for containing the patterns they scan for (engine v2.4.22)",
+        "labels": [
+          "r: rescan-guidance"
+        ],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-08T00:24:37Z",
+        "updatedAt": "2026-05-08T00:32:29Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2099,
+        "kind": "pull_request",
+        "title": "[codex] Add ClawHub staging deploy workflow",
+        "labels": [],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-08T02:25:10Z",
+        "updatedAt": "2026-05-08T02:38:03Z",
         "missingReason": "recently_created"
       }
     ],
@@ -4034,7 +4036,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-20T20:24:38Z",
-        "updatedAt": "2026-05-04T02:48:04Z",
+        "updatedAt": "2026-05-07T20:02:30Z",
         "missingReason": "eligible"
       },
       {
@@ -4044,7 +4046,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T01:12:26Z",
-        "updatedAt": "2026-05-04T23:54:00Z",
+        "updatedAt": "2026-05-08T01:03:58Z",
         "missingReason": "eligible"
       },
       {
@@ -4054,7 +4056,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T10:00:34Z",
-        "updatedAt": "2026-05-04T23:54:01Z",
+        "updatedAt": "2026-05-08T02:28:42Z",
         "missingReason": "eligible"
       },
       {
@@ -4076,7 +4078,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T11:44:05Z",
-        "updatedAt": "2026-05-04T23:54:03Z",
+        "updatedAt": "2026-05-08T02:14:50Z",
         "missingReason": "eligible"
       },
       {
@@ -4086,7 +4088,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T11:47:41Z",
-        "updatedAt": "2026-05-04T02:48:06Z",
+        "updatedAt": "2026-05-07T20:07:53Z",
         "missingReason": "eligible"
       },
       {
@@ -4096,7 +4098,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-21T14:23:18Z",
-        "updatedAt": "2026-05-04T02:48:08Z",
+        "updatedAt": "2026-05-07T20:14:43Z",
         "missingReason": "eligible"
       },
       {
@@ -4136,7 +4138,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T03:18:17Z",
-        "updatedAt": "2026-05-04T02:48:11Z",
+        "updatedAt": "2026-05-07T20:26:48Z",
         "missingReason": "eligible"
       },
       {
@@ -4146,7 +4148,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T10:11:48Z",
-        "updatedAt": "2026-05-04T02:48:12Z",
+        "updatedAt": "2026-05-07T20:53:40Z",
         "missingReason": "eligible"
       },
       {
@@ -4156,7 +4158,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T11:13:31Z",
-        "updatedAt": "2026-05-04T23:54:06Z",
+        "updatedAt": "2026-05-08T02:22:30Z",
         "missingReason": "eligible"
       },
       {
@@ -4166,7 +4168,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T11:15:43Z",
-        "updatedAt": "2026-05-04T02:48:14Z",
+        "updatedAt": "2026-05-07T23:29:56Z",
         "missingReason": "eligible"
       },
       {
@@ -4176,7 +4178,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T11:28:28Z",
-        "updatedAt": "2026-05-04T02:48:17Z",
+        "updatedAt": "2026-05-07T20:20:29Z",
         "missingReason": "eligible"
       },
       {
@@ -4186,7 +4188,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T13:10:25Z",
-        "updatedAt": "2026-05-04T02:48:19Z",
+        "updatedAt": "2026-05-07T22:10:20Z",
         "missingReason": "eligible"
       },
       {
@@ -4206,7 +4208,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T13:54:00Z",
-        "updatedAt": "2026-05-04T23:54:08Z",
+        "updatedAt": "2026-05-08T03:44:54Z",
         "missingReason": "eligible"
       },
       {
@@ -4216,7 +4218,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T14:01:01Z",
-        "updatedAt": "2026-05-04T23:08:11Z",
+        "updatedAt": "2026-05-07T22:59:41Z",
         "missingReason": "eligible"
       },
       {
@@ -4226,7 +4228,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T14:02:16Z",
-        "updatedAt": "2026-05-04T23:08:12Z",
+        "updatedAt": "2026-05-08T00:13:34Z",
         "missingReason": "eligible"
       },
       {
@@ -4256,7 +4258,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T16:22:31Z",
-        "updatedAt": "2026-05-04T02:48:20Z",
+        "updatedAt": "2026-05-07T22:29:56Z",
         "missingReason": "eligible"
       },
       {
@@ -4296,7 +4298,7 @@
         "labels": [],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-03-23T19:23:18Z",
-        "updatedAt": "2026-05-04T23:08:17Z",
+        "updatedAt": "2026-05-07T22:03:12Z",
         "missingReason": "eligible"
       },
       {
@@ -4306,7 +4308,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T03:38:25Z",
-        "updatedAt": "2026-05-04T23:08:19Z",
+        "updatedAt": "2026-05-07T23:24:05Z",
         "missingReason": "eligible"
       },
       {
@@ -4336,7 +4338,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T09:55:32Z",
-        "updatedAt": "2026-05-04T23:08:22Z",
+        "updatedAt": "2026-05-08T00:49:13Z",
         "missingReason": "eligible"
       },
       {
@@ -4346,7 +4348,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T11:29:04Z",
-        "updatedAt": "2026-05-04T23:08:24Z",
+        "updatedAt": "2026-05-07T21:44:52Z",
         "missingReason": "eligible"
       },
       {
@@ -4366,7 +4368,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-25T01:39:14Z",
-        "updatedAt": "2026-05-04T23:08:26Z",
+        "updatedAt": "2026-05-08T03:12:57Z",
         "missingReason": "eligible"
       },
       {
@@ -4436,7 +4438,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T18:48:37Z",
-        "updatedAt": "2026-05-04T23:08:35Z",
+        "updatedAt": "2026-05-07T23:05:47Z",
         "missingReason": "eligible"
       },
       {
@@ -4456,7 +4458,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T22:30:40Z",
-        "updatedAt": "2026-05-04T23:08:37Z",
+        "updatedAt": "2026-05-07T22:54:30Z",
         "missingReason": "eligible"
       },
       {
@@ -4466,7 +4468,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-27T03:16:06Z",
-        "updatedAt": "2026-05-04T23:08:38Z",
+        "updatedAt": "2026-05-07T23:11:56Z",
         "missingReason": "eligible"
       },
       {
@@ -4476,7 +4478,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-27T05:49:06Z",
-        "updatedAt": "2026-05-04T23:08:39Z",
+        "updatedAt": "2026-05-07T22:36:22Z",
         "missingReason": "eligible"
       },
       {
@@ -4486,7 +4488,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-27T07:14:52Z",
-        "updatedAt": "2026-05-04T23:08:41Z",
+        "updatedAt": "2026-05-08T01:50:19Z",
         "missingReason": "eligible"
       },
       {
@@ -4516,7 +4518,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T12:23:59Z",
-        "updatedAt": "2026-05-04T23:08:43Z",
+        "updatedAt": "2026-05-08T00:31:52Z",
         "missingReason": "eligible"
       },
       {
@@ -4526,7 +4528,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T15:26:24Z",
-        "updatedAt": "2026-05-04T23:08:44Z",
+        "updatedAt": "2026-05-08T01:00:54Z",
         "missingReason": "eligible"
       },
       {
@@ -4536,7 +4538,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T17:03:44Z",
-        "updatedAt": "2026-05-04T23:54:15Z",
+        "updatedAt": "2026-05-08T03:07:38Z",
         "missingReason": "eligible"
       },
       {
@@ -4546,7 +4548,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T23:47:48Z",
-        "updatedAt": "2026-05-04T23:08:46Z",
+        "updatedAt": "2026-05-08T00:42:44Z",
         "missingReason": "eligible"
       },
       {
@@ -4556,7 +4558,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T05:37:21Z",
-        "updatedAt": "2026-05-04T23:54:16Z",
+        "updatedAt": "2026-05-08T02:53:25Z",
         "missingReason": "eligible"
       },
       {
@@ -4566,7 +4568,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T06:27:17Z",
-        "updatedAt": "2026-05-04T23:54:18Z",
+        "updatedAt": "2026-05-08T03:37:41Z",
         "missingReason": "eligible"
       },
       {
@@ -4576,7 +4578,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T09:47:05Z",
-        "updatedAt": "2026-05-04T23:54:19Z",
+        "updatedAt": "2026-05-08T01:36:14Z",
         "missingReason": "eligible"
       },
       {
@@ -4596,7 +4598,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T13:18:43Z",
-        "updatedAt": "2026-05-05T00:04:49Z",
+        "updatedAt": "2026-05-08T03:50:57Z",
         "missingReason": "eligible"
       },
       {
@@ -4616,7 +4618,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T13:51:53Z",
-        "updatedAt": "2026-05-04T23:54:25Z",
+        "updatedAt": "2026-05-08T02:35:12Z",
         "missingReason": "eligible"
       },
       {
@@ -4636,7 +4638,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-30T10:44:34Z",
-        "updatedAt": "2026-05-04T23:54:26Z",
+        "updatedAt": "2026-05-08T03:18:58Z",
         "missingReason": "eligible"
       },
       {
@@ -4646,7 +4648,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-30T10:56:54Z",
-        "updatedAt": "2026-05-04T23:54:28Z",
+        "updatedAt": "2026-05-08T01:18:17Z",
         "missingReason": "eligible"
       },
       {
@@ -4666,7 +4668,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-31T16:08:26Z",
-        "updatedAt": "2026-05-04T02:48:24Z",
+        "updatedAt": "2026-05-07T21:56:04Z",
         "missingReason": "eligible"
       },
       {
@@ -4686,7 +4688,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-02T04:11:39Z",
-        "updatedAt": "2026-05-04T23:54:34Z",
+        "updatedAt": "2026-05-08T02:47:41Z",
         "missingReason": "eligible"
       },
       {
@@ -4696,7 +4698,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-03T08:41:39Z",
-        "updatedAt": "2026-05-04T23:08:49Z",
+        "updatedAt": "2026-05-07T21:31:54Z",
         "missingReason": "eligible"
       },
       {
@@ -4716,7 +4718,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-03T17:19:09Z",
-        "updatedAt": "2026-05-04T23:08:52Z",
+        "updatedAt": "2026-05-07T22:42:00Z",
         "missingReason": "eligible"
       },
       {
@@ -4726,7 +4728,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-04T03:15:27Z",
-        "updatedAt": "2026-05-04T23:08:53Z",
+        "updatedAt": "2026-05-08T00:06:56Z",
         "missingReason": "eligible"
       },
       {
@@ -4736,7 +4738,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-05T11:19:46Z",
-        "updatedAt": "2026-05-04T23:08:54Z",
+        "updatedAt": "2026-05-08T00:00:27Z",
         "missingReason": "eligible"
       },
       {
@@ -4746,7 +4748,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-05T17:52:41Z",
-        "updatedAt": "2026-05-04T23:54:36Z",
+        "updatedAt": "2026-05-08T01:55:35Z",
         "missingReason": "eligible"
       },
       {
@@ -4756,7 +4758,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-06T05:10:01Z",
-        "updatedAt": "2026-05-04T23:08:57Z",
+        "updatedAt": "2026-05-08T00:37:46Z",
         "missingReason": "eligible"
       },
       {
@@ -4766,7 +4768,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-07T06:55:58Z",
-        "updatedAt": "2026-05-04T23:08:58Z",
+        "updatedAt": "2026-05-07T23:36:00Z",
         "missingReason": "eligible"
       },
       {
@@ -4916,7 +4918,7 @@
         "labels": [],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-04-17T08:32:24Z",
-        "updatedAt": "2026-05-07T19:37:05Z",
+        "updatedAt": "2026-05-07T21:00:28Z",
         "missingReason": "eligible"
       },
       {
@@ -5027,16 +5029,6 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-04-23T22:41:10Z",
         "updatedAt": "2026-05-03T14:06:40Z",
-        "missingReason": "eligible"
-      },
-      {
-        "number": 1814,
-        "kind": "issue",
-        "title": "Allow publishing new versions of org-owned skills via REST/CLI",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-04-24T22:09:43Z",
-        "updatedAt": "2026-05-03T14:06:41Z",
         "missingReason": "eligible"
       },
       {
@@ -5411,6 +5403,62 @@
         "createdAt": "2026-05-06T13:29:57Z",
         "updatedAt": "2026-05-07T05:23:18Z",
         "missingReason": "eligible"
+      },
+      {
+        "number": 2057,
+        "kind": "pull_request",
+        "title": "fix: keep local dev seed state deterministic",
+        "labels": [],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-06T21:44:26Z",
+        "updatedAt": "2026-05-07T18:09:45Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2060,
+        "kind": "pull_request",
+        "title": "fix: align local Convex site URL setup",
+        "labels": [],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-06T23:03:34Z",
+        "updatedAt": "2026-05-07T18:04:45Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2063,
+        "kind": "pull_request",
+        "title": "build(deps-dev): bump the development-minor-and-patch group across 1 directory with 3 updates",
+        "labels": [
+          "dependencies",
+          "javascript"
+        ],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-07T02:06:59Z",
+        "updatedAt": "2026-05-07T02:12:10Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2065,
+        "kind": "pull_request",
+        "title": "build(deps): bump the production-minor-and-patch group across 1 directory with 8 updates",
+        "labels": [
+          "dependencies",
+          "javascript"
+        ],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-07T02:07:27Z",
+        "updatedAt": "2026-05-07T02:07:57Z",
+        "missingReason": "eligible"
+      },
+      {
+        "number": 2068,
+        "kind": "issue",
+        "title": "https://clawhub.ai/isee15/billcat-save-my-money  has been incorrectly flagged",
+        "labels": [],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-07T03:25:27Z",
+        "updatedAt": "2026-05-07T05:29:06Z",
+        "missingReason": "eligible"
       }
     ],
     "missingMaintainerOpen": [
@@ -5431,7 +5479,7 @@
         "labels": [],
         "authorAssociation": "MEMBER",
         "createdAt": "2026-05-07T09:55:26Z",
-        "updatedAt": "2026-05-07T13:20:52Z",
+        "updatedAt": "2026-05-08T02:48:09Z",
         "missingReason": "maintainer_authored"
       },
       {
@@ -5441,7 +5489,7 @@
         "labels": [],
         "authorAssociation": "MEMBER",
         "createdAt": "2026-05-07T11:50:07Z",
-        "updatedAt": "2026-05-07T11:57:52Z",
+        "updatedAt": "2026-05-08T03:49:21Z",
         "missingReason": "maintainer_authored"
       }
     ],
@@ -5843,62 +5891,6 @@
     ],
     "missingRecentOpen": [
       {
-        "number": 2057,
-        "kind": "pull_request",
-        "title": "fix: keep local dev seed state deterministic",
-        "labels": [],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-06T21:44:26Z",
-        "updatedAt": "2026-05-07T18:09:45Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2060,
-        "kind": "pull_request",
-        "title": "fix: align local Convex site URL setup",
-        "labels": [],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-06T23:03:34Z",
-        "updatedAt": "2026-05-07T18:04:45Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2063,
-        "kind": "pull_request",
-        "title": "build(deps-dev): bump the development-minor-and-patch group across 1 directory with 3 updates",
-        "labels": [
-          "dependencies",
-          "javascript"
-        ],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-07T02:06:59Z",
-        "updatedAt": "2026-05-07T02:12:10Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2065,
-        "kind": "pull_request",
-        "title": "build(deps): bump the production-minor-and-patch group across 1 directory with 8 updates",
-        "labels": [
-          "dependencies",
-          "javascript"
-        ],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-07T02:07:27Z",
-        "updatedAt": "2026-05-07T02:07:57Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2068,
-        "kind": "issue",
-        "title": "https://clawhub.ai/isee15/billcat-save-my-money  has been incorrectly flagged",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T03:25:27Z",
-        "updatedAt": "2026-05-07T05:29:06Z",
-        "missingReason": "recently_created"
-      },
-      {
         "number": 2071,
         "kind": "issue",
         "title": "[Skill Appeal] jarvislabs-gpu flagged for expected JarvisLabs CLI behavior",
@@ -5906,26 +5898,6 @@
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T05:17:47Z",
         "updatedAt": "2026-05-07T05:24:48Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2072,
-        "kind": "pull_request",
-        "title": "Enforce scoped plugin ownership",
-        "labels": [],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-07T05:32:52Z",
-        "updatedAt": "2026-05-07T18:57:45Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2073,
-        "kind": "pull_request",
-        "title": "Fix plugin publish ownership visibility",
-        "labels": [],
-        "authorAssociation": "CONTRIBUTOR",
-        "createdAt": "2026-05-07T05:36:21Z",
-        "updatedAt": "2026-05-07T18:42:48Z",
         "missingReason": "recently_created"
       },
       {
@@ -5987,7 +5959,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T14:15:17Z",
-        "updatedAt": "2026-05-07T14:22:40Z",
+        "updatedAt": "2026-05-08T02:08:45Z",
         "missingReason": "recently_created"
       },
       {
@@ -5999,7 +5971,7 @@
         ],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T14:28:36Z",
-        "updatedAt": "2026-05-07T18:30:36Z",
+        "updatedAt": "2026-05-07T22:11:47Z",
         "missingReason": "recently_created"
       },
       {
@@ -6030,6 +6002,38 @@
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T18:15:09Z",
         "updatedAt": "2026-05-07T18:25:47Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2093,
+        "kind": "pull_request",
+        "title": "feat: enforce malicious-only moderation appeals",
+        "labels": [],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-07T22:48:44Z",
+        "updatedAt": "2026-05-08T02:43:58Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2094,
+        "kind": "issue",
+        "title": "Defensive-scanner skills get flagged for containing the patterns they scan for (engine v2.4.22)",
+        "labels": [
+          "r: rescan-guidance"
+        ],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-08T00:24:37Z",
+        "updatedAt": "2026-05-08T00:32:29Z",
+        "missingReason": "recently_created"
+      },
+      {
+        "number": 2099,
+        "kind": "pull_request",
+        "title": "[codex] Add ClawHub staging deploy workflow",
+        "labels": [],
+        "authorAssociation": "CONTRIBUTOR",
+        "createdAt": "2026-05-08T02:25:10Z",
+        "updatedAt": "2026-05-08T02:38:03Z",
         "missingReason": "recently_created"
       }
     ],
