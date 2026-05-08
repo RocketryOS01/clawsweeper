@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-08T03:51:23.182Z",
+  "generatedAt": "2026-05-08T07:56:47.282Z",
   "targetRepo": "openclaw/clawhub",
   "scan": {
     "complete": true,
     "pagesScanned": 3,
-    "openItemsSeen": 290
+    "openItemsSeen": 287
   },
   "counts": {
     "itemRecords": 0,
     "closedRecords": 0,
-    "missingOpen": 290,
-    "missingEligibleOpen": 241,
-    "missingMaintainerOpen": 3,
+    "missingOpen": 287,
+    "missingEligibleOpen": 242,
+    "missingMaintainerOpen": 2,
     "missingProtectedOpen": 32,
-    "missingRecentOpen": 14,
+    "missingRecentOpen": 11,
     "openArchived": 0,
     "staleItemRecords": 0,
     "duplicateRecords": 0,
@@ -1123,7 +1123,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-22T12:55:25Z",
-        "updatedAt": "2026-05-04T02:48:09Z",
+        "updatedAt": "2026-05-08T07:14:52Z",
         "missingReason": "eligible"
       },
       {
@@ -1193,7 +1193,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T13:13:14Z",
-        "updatedAt": "2026-05-04T23:08:10Z",
+        "updatedAt": "2026-05-08T05:47:53Z",
         "missingReason": "eligible"
       },
       {
@@ -1233,7 +1233,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T14:55:17Z",
-        "updatedAt": "2026-05-04T23:08:13Z",
+        "updatedAt": "2026-05-08T06:41:02Z",
         "missingReason": "eligible"
       },
       {
@@ -1243,7 +1243,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T15:53:23Z",
-        "updatedAt": "2026-05-04T23:08:15Z",
+        "updatedAt": "2026-05-08T06:08:16Z",
         "missingReason": "eligible"
       },
       {
@@ -1263,7 +1263,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T16:50:02Z",
-        "updatedAt": "2026-05-04T23:54:09Z",
+        "updatedAt": "2026-05-08T04:47:33Z",
         "missingReason": "eligible"
       },
       {
@@ -1273,7 +1273,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T17:13:30Z",
-        "updatedAt": "2026-05-04T23:54:10Z",
+        "updatedAt": "2026-05-08T04:29:03Z",
         "missingReason": "eligible"
       },
       {
@@ -1283,7 +1283,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T18:00:47Z",
-        "updatedAt": "2026-05-04T23:08:16Z",
+        "updatedAt": "2026-05-08T07:49:53Z",
         "missingReason": "eligible"
       },
       {
@@ -1313,7 +1313,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T07:25:41Z",
-        "updatedAt": "2026-05-04T23:08:20Z",
+        "updatedAt": "2026-05-08T04:58:10Z",
         "missingReason": "eligible"
       },
       {
@@ -1323,7 +1323,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T09:13:39Z",
-        "updatedAt": "2026-05-04T23:08:21Z",
+        "updatedAt": "2026-05-08T06:26:53Z",
         "missingReason": "eligible"
       },
       {
@@ -1363,7 +1363,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-25T01:39:14Z",
-        "updatedAt": "2026-05-08T03:12:57Z",
+        "updatedAt": "2026-05-08T04:23:31Z",
         "missingReason": "eligible"
       },
       {
@@ -1383,7 +1383,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T01:06:57Z",
-        "updatedAt": "2026-05-04T23:08:29Z",
+        "updatedAt": "2026-05-08T04:53:05Z",
         "missingReason": "eligible"
       },
       {
@@ -1393,7 +1393,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T07:48:55Z",
-        "updatedAt": "2026-05-04T23:08:30Z",
+        "updatedAt": "2026-05-08T06:48:06Z",
         "missingReason": "eligible"
       },
       {
@@ -1413,7 +1413,7 @@
         "labels": [],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-03-26T10:27:55Z",
-        "updatedAt": "2026-05-04T23:08:32Z",
+        "updatedAt": "2026-05-08T07:23:13Z",
         "missingReason": "eligible"
       },
       {
@@ -1423,7 +1423,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T14:41:40Z",
-        "updatedAt": "2026-05-04T23:08:34Z",
+        "updatedAt": "2026-05-08T06:01:20Z",
         "missingReason": "eligible"
       },
       {
@@ -1443,7 +1443,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T19:34:24Z",
-        "updatedAt": "2026-05-04T23:08:36Z",
+        "updatedAt": "2026-05-08T06:56:51Z",
         "missingReason": "eligible"
       },
       {
@@ -1493,7 +1493,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T06:05:41Z",
-        "updatedAt": "2026-05-04T23:08:42Z",
+        "updatedAt": "2026-05-08T05:40:45Z",
         "missingReason": "eligible"
       },
       {
@@ -1503,7 +1503,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T11:22:16Z",
-        "updatedAt": "2026-05-04T23:54:13Z",
+        "updatedAt": "2026-05-08T04:35:12Z",
         "missingReason": "eligible"
       },
       {
@@ -1583,7 +1583,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T10:44:04Z",
-        "updatedAt": "2026-05-04T23:54:21Z",
+        "updatedAt": "2026-05-08T04:13:27Z",
         "missingReason": "eligible"
       },
       {
@@ -1603,7 +1603,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T13:41:38Z",
-        "updatedAt": "2026-05-04T23:54:24Z",
+        "updatedAt": "2026-05-08T07:42:42Z",
         "missingReason": "eligible"
       },
       {
@@ -1623,7 +1623,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-30T09:22:27Z",
-        "updatedAt": "2026-05-04T23:08:47Z",
+        "updatedAt": "2026-05-08T07:17:25Z",
         "missingReason": "eligible"
       },
       {
@@ -1673,7 +1673,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-01T09:41:02Z",
-        "updatedAt": "2026-05-04T23:54:31Z",
+        "updatedAt": "2026-05-08T05:54:37Z",
         "missingReason": "eligible"
       },
       {
@@ -1703,7 +1703,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-03T08:48:17Z",
-        "updatedAt": "2026-05-04T23:08:51Z",
+        "updatedAt": "2026-05-08T06:35:07Z",
         "missingReason": "eligible"
       },
       {
@@ -2803,7 +2803,7 @@
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T05:17:47Z",
         "updatedAt": "2026-05-07T05:24:48Z",
-        "missingReason": "recently_created"
+        "missingReason": "eligible"
       },
       {
         "number": 2074,
@@ -2827,7 +2827,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T06:41:21Z",
-        "updatedAt": "2026-05-07T07:02:55Z",
+        "updatedAt": "2026-05-08T06:24:37Z",
         "missingReason": "protected_label"
       },
       {
@@ -2857,23 +2857,13 @@
         "missingReason": "protected_label"
       },
       {
-        "number": 2078,
-        "kind": "pull_request",
-        "title": "fix(skills): block owner from undeleting moderator-hidden skills",
-        "labels": [],
-        "authorAssociation": "MEMBER",
-        "createdAt": "2026-05-07T09:55:26Z",
-        "updatedAt": "2026-05-08T02:48:09Z",
-        "missingReason": "maintainer_authored"
-      },
-      {
         "number": 2079,
         "kind": "pull_request",
         "title": "fix(search): disclose suspicious results hidden on unified search",
         "labels": [],
         "authorAssociation": "MEMBER",
         "createdAt": "2026-05-07T11:50:07Z",
-        "updatedAt": "2026-05-08T03:49:21Z",
+        "updatedAt": "2026-05-08T07:21:00Z",
         "missingReason": "maintainer_authored"
       },
       {
@@ -2964,26 +2954,6 @@
         "missingReason": "recently_created"
       },
       {
-        "number": 2088,
-        "kind": "issue",
-        "title": "My skill was incorrectly flagged",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T15:19:34Z",
-        "updatedAt": "2026-05-07T18:19:34Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2089,
-        "kind": "issue",
-        "title": "Missing Implementation for nlp-toolkit Skill",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T15:57:20Z",
-        "updatedAt": "2026-05-07T16:04:11Z",
-        "missingReason": "recently_created"
-      },
-      {
         "number": 2090,
         "kind": "pull_request",
         "title": "fix: rename skills cards view to grid",
@@ -3000,7 +2970,7 @@
         "labels": [],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T22:48:44Z",
-        "updatedAt": "2026-05-08T02:43:58Z",
+        "updatedAt": "2026-05-08T06:30:25Z",
         "missingReason": "recently_created"
       },
       {
@@ -4128,7 +4098,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-22T12:55:25Z",
-        "updatedAt": "2026-05-04T02:48:09Z",
+        "updatedAt": "2026-05-08T07:14:52Z",
         "missingReason": "eligible"
       },
       {
@@ -4198,7 +4168,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T13:13:14Z",
-        "updatedAt": "2026-05-04T23:08:10Z",
+        "updatedAt": "2026-05-08T05:47:53Z",
         "missingReason": "eligible"
       },
       {
@@ -4238,7 +4208,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T14:55:17Z",
-        "updatedAt": "2026-05-04T23:08:13Z",
+        "updatedAt": "2026-05-08T06:41:02Z",
         "missingReason": "eligible"
       },
       {
@@ -4248,7 +4218,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T15:53:23Z",
-        "updatedAt": "2026-05-04T23:08:15Z",
+        "updatedAt": "2026-05-08T06:08:16Z",
         "missingReason": "eligible"
       },
       {
@@ -4268,7 +4238,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T16:50:02Z",
-        "updatedAt": "2026-05-04T23:54:09Z",
+        "updatedAt": "2026-05-08T04:47:33Z",
         "missingReason": "eligible"
       },
       {
@@ -4278,7 +4248,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T17:13:30Z",
-        "updatedAt": "2026-05-04T23:54:10Z",
+        "updatedAt": "2026-05-08T04:29:03Z",
         "missingReason": "eligible"
       },
       {
@@ -4288,7 +4258,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-23T18:00:47Z",
-        "updatedAt": "2026-05-04T23:08:16Z",
+        "updatedAt": "2026-05-08T07:49:53Z",
         "missingReason": "eligible"
       },
       {
@@ -4318,7 +4288,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T07:25:41Z",
-        "updatedAt": "2026-05-04T23:08:20Z",
+        "updatedAt": "2026-05-08T04:58:10Z",
         "missingReason": "eligible"
       },
       {
@@ -4328,7 +4298,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-24T09:13:39Z",
-        "updatedAt": "2026-05-04T23:08:21Z",
+        "updatedAt": "2026-05-08T06:26:53Z",
         "missingReason": "eligible"
       },
       {
@@ -4368,7 +4338,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-25T01:39:14Z",
-        "updatedAt": "2026-05-08T03:12:57Z",
+        "updatedAt": "2026-05-08T04:23:31Z",
         "missingReason": "eligible"
       },
       {
@@ -4388,7 +4358,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T01:06:57Z",
-        "updatedAt": "2026-05-04T23:08:29Z",
+        "updatedAt": "2026-05-08T04:53:05Z",
         "missingReason": "eligible"
       },
       {
@@ -4398,7 +4368,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T07:48:55Z",
-        "updatedAt": "2026-05-04T23:08:30Z",
+        "updatedAt": "2026-05-08T06:48:06Z",
         "missingReason": "eligible"
       },
       {
@@ -4418,7 +4388,7 @@
         "labels": [],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-03-26T10:27:55Z",
-        "updatedAt": "2026-05-04T23:08:32Z",
+        "updatedAt": "2026-05-08T07:23:13Z",
         "missingReason": "eligible"
       },
       {
@@ -4428,7 +4398,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T14:41:40Z",
-        "updatedAt": "2026-05-04T23:08:34Z",
+        "updatedAt": "2026-05-08T06:01:20Z",
         "missingReason": "eligible"
       },
       {
@@ -4448,7 +4418,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-26T19:34:24Z",
-        "updatedAt": "2026-05-04T23:08:36Z",
+        "updatedAt": "2026-05-08T06:56:51Z",
         "missingReason": "eligible"
       },
       {
@@ -4498,7 +4468,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T06:05:41Z",
-        "updatedAt": "2026-05-04T23:08:42Z",
+        "updatedAt": "2026-05-08T05:40:45Z",
         "missingReason": "eligible"
       },
       {
@@ -4508,7 +4478,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-28T11:22:16Z",
-        "updatedAt": "2026-05-04T23:54:13Z",
+        "updatedAt": "2026-05-08T04:35:12Z",
         "missingReason": "eligible"
       },
       {
@@ -4588,7 +4558,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T10:44:04Z",
-        "updatedAt": "2026-05-04T23:54:21Z",
+        "updatedAt": "2026-05-08T04:13:27Z",
         "missingReason": "eligible"
       },
       {
@@ -4608,7 +4578,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-29T13:41:38Z",
-        "updatedAt": "2026-05-04T23:54:24Z",
+        "updatedAt": "2026-05-08T07:42:42Z",
         "missingReason": "eligible"
       },
       {
@@ -4628,7 +4598,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-03-30T09:22:27Z",
-        "updatedAt": "2026-05-04T23:08:47Z",
+        "updatedAt": "2026-05-08T07:17:25Z",
         "missingReason": "eligible"
       },
       {
@@ -4678,7 +4648,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-01T09:41:02Z",
-        "updatedAt": "2026-05-04T23:54:31Z",
+        "updatedAt": "2026-05-08T05:54:37Z",
         "missingReason": "eligible"
       },
       {
@@ -4708,7 +4678,7 @@
         "labels": [],
         "authorAssociation": "NONE",
         "createdAt": "2026-04-03T08:48:17Z",
-        "updatedAt": "2026-05-04T23:08:51Z",
+        "updatedAt": "2026-05-08T06:35:07Z",
         "missingReason": "eligible"
       },
       {
@@ -5459,6 +5429,16 @@
         "createdAt": "2026-05-07T03:25:27Z",
         "updatedAt": "2026-05-07T05:29:06Z",
         "missingReason": "eligible"
+      },
+      {
+        "number": 2071,
+        "kind": "issue",
+        "title": "[Skill Appeal] jarvislabs-gpu flagged for expected JarvisLabs CLI behavior",
+        "labels": [],
+        "authorAssociation": "NONE",
+        "createdAt": "2026-05-07T05:17:47Z",
+        "updatedAt": "2026-05-07T05:24:48Z",
+        "missingReason": "eligible"
       }
     ],
     "missingMaintainerOpen": [
@@ -5473,23 +5453,13 @@
         "missingReason": "maintainer_authored"
       },
       {
-        "number": 2078,
-        "kind": "pull_request",
-        "title": "fix(skills): block owner from undeleting moderator-hidden skills",
-        "labels": [],
-        "authorAssociation": "MEMBER",
-        "createdAt": "2026-05-07T09:55:26Z",
-        "updatedAt": "2026-05-08T02:48:09Z",
-        "missingReason": "maintainer_authored"
-      },
-      {
         "number": 2079,
         "kind": "pull_request",
         "title": "fix(search): disclose suspicious results hidden on unified search",
         "labels": [],
         "authorAssociation": "MEMBER",
         "createdAt": "2026-05-07T11:50:07Z",
-        "updatedAt": "2026-05-08T03:49:21Z",
+        "updatedAt": "2026-05-08T07:21:00Z",
         "missingReason": "maintainer_authored"
       }
     ],
@@ -5846,7 +5816,7 @@
         ],
         "authorAssociation": "NONE",
         "createdAt": "2026-05-07T06:41:21Z",
-        "updatedAt": "2026-05-07T07:02:55Z",
+        "updatedAt": "2026-05-08T06:24:37Z",
         "missingReason": "protected_label"
       },
       {
@@ -5890,16 +5860,6 @@
       }
     ],
     "missingRecentOpen": [
-      {
-        "number": 2071,
-        "kind": "issue",
-        "title": "[Skill Appeal] jarvislabs-gpu flagged for expected JarvisLabs CLI behavior",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T05:17:47Z",
-        "updatedAt": "2026-05-07T05:24:48Z",
-        "missingReason": "recently_created"
-      },
       {
         "number": 2080,
         "kind": "issue",
@@ -5975,26 +5935,6 @@
         "missingReason": "recently_created"
       },
       {
-        "number": 2088,
-        "kind": "issue",
-        "title": "My skill was incorrectly flagged",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T15:19:34Z",
-        "updatedAt": "2026-05-07T18:19:34Z",
-        "missingReason": "recently_created"
-      },
-      {
-        "number": 2089,
-        "kind": "issue",
-        "title": "Missing Implementation for nlp-toolkit Skill",
-        "labels": [],
-        "authorAssociation": "NONE",
-        "createdAt": "2026-05-07T15:57:20Z",
-        "updatedAt": "2026-05-07T16:04:11Z",
-        "missingReason": "recently_created"
-      },
-      {
         "number": 2090,
         "kind": "pull_request",
         "title": "fix: rename skills cards view to grid",
@@ -6011,7 +5951,7 @@
         "labels": [],
         "authorAssociation": "CONTRIBUTOR",
         "createdAt": "2026-05-07T22:48:44Z",
-        "updatedAt": "2026-05-08T02:43:58Z",
+        "updatedAt": "2026-05-08T06:30:25Z",
         "missingReason": "recently_created"
       },
       {
